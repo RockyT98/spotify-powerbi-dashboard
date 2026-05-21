@@ -54,7 +54,7 @@ spotify-powerbi-dashboard/
 
 Il dataset utilizzato è disponibile su Kaggle:
 
-🔗 [Spotify Tracks Dataset — Kaggle](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
+[Spotify Tracks Dataset — Kaggle](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
 
 **Colonne principali:**
 
@@ -83,7 +83,7 @@ Il dataset utilizzato è disponibile su Kaggle:
 
 ---
 
-## 🛠Come aprire il progetto
+## Come aprire il progetto
 
 1. Scarica e installa [Power BI Desktop](https://powerbi.microsoft.com/it-it/desktop/) (gratuito)
 2. Clona questo repository:
