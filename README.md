@@ -8,7 +8,7 @@ Dashboard interattivo realizzato con **Power BI Desktop** per analizzare dati mu
 
 | Overview | Audio Features | Track Details |
 |----------|---------------|---------------|
-| ![Overview](screenshots/overview.png) | ![Audio Features](screenshots/audio_features.png) | ![Track Details](screenshots/track_details.png) |
+| ![Overview](screenshots/overview_1.png) | ![Audio Features](screenshots/audio_features_1.png) | ![Track Details](screenshots/track_details_1.png) |
 
 ---
 
